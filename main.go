@@ -7,4 +7,6 @@ func main() {
 	var b int = 20
 	fmt.Println(a + b)
 	fmt.Println(a - b)
+	fmt.Println(a * b)
+
 }
