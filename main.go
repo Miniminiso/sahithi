@@ -12,9 +12,9 @@ func main() {
 }
 
 func test2() {
-	array1 := make([]int, 8)
-	array1[0] = 2
-	array1[1] = 9
-	array1[3] = 23
+	array1 := make([]string, 8)
+	array1[0] = "sahi"
+	array1[1] = "swetha"
+	array1[3] = "harini"
 	fmt.Println(array1)
 }
